@@ -1,0 +1,693 @@
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\StokTakipOtomasyonu.exe.config
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\StokTakipOtomasyonu.exe
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\StokTakipOtomasyonu.pdb
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\CircularProgressBar.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Images.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\WinFormAnimation.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\CircularProgressBar.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\WinFormAnimation.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.LoadingForm.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Form1.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Form2.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Properties.Resources.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.StokEkle.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Stokİslemleri.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.StokGuncelle.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.StokSil.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.exe.licenses
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.exe
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.pdb
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu-master\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Siparis.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\StokTakipOtomasyonu.exe.config
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\StokTakipOtomasyonu.exe
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\StokTakipOtomasyonu.pdb
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\CircularProgressBar.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Images.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\Microsoft.CSharp.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Configuration.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Data.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Data.Linq.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Deployment.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Drawing.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Messaging.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Net.Http.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.ServiceModel.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Web.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Web.Services.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Windows.Forms.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Xml.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Xml.Linq.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\WinFormAnimation.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\CircularProgressBar.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\WinFormAnimation.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.LoadingForm.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Form1.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Form2.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Properties.Resources.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Siparis.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.StokEkle.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Stokİslemleri.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.StokGuncelle.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.StokSil.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.exe.licenses
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.exe
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.pdb
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Kullanici.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Musteri.resources
+C:\Users\erayo\Desktop\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.MusteriEkle.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\StokTakipOtomasyonu.exe.config
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\StokTakipOtomasyonu.exe
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\StokTakipOtomasyonu.pdb
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\CircularProgressBar.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Images.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\Microsoft.CSharp.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Configuration.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Data.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Data.Linq.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Deployment.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Drawing.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Messaging.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Net.Http.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.ServiceModel.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Web.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Web.Services.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Windows.Forms.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Xml.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\System.Xml.Linq.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\WinFormAnimation.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\CircularProgressBar.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\WinFormAnimation.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Kullanici.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.LoadingForm.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Form1.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Form2.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Musteri.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.MusteriEkle.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Properties.Resources.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Siparis.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.StokEkle.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Stokİslemleri.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.StokGuncelle.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.StokSil.resources
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.exe.licenses
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.exe
+C:\Users\erayo\Downloads\Veritabanı Yönetim Sistemleri Projesi\Stok-Takip-Otomasyonu\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.pdb

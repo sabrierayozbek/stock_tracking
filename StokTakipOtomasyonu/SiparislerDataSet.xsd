@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SiparislerDataSet" targetNamespace="http://tempuri.org/SiparislerDataSet.xsd" xmlns:mstns="http://tempuri.org/SiparislerDataSet.xsd" xmlns="http://tempuri.org/SiparislerDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="StokTakipOtomasyonuConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="StokTakipOtomasyonuConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.StokTakipOtomasyonu.Properties.Settings.GlobalReference.Default.StokTakipOtomasyonuConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SiparislerTableAdapter" GeneratorDataComponentClassName="SiparislerTableAdapter" Name="Siparisler" UserDataComponentName="SiparislerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="StokTakipOtomasyonuConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT Siparisler.SiparisId, Siparisler.SiparisNumarasi, Siparisler.Adet, Kargolar.KargoAdi, Musteriler.MusteriAdi, Urunler.UrunAdi
+FROM   Siparisler INNER JOIN
+             Kargolar ON Siparisler.KargoId = Kargolar.KargoId INNER JOIN
+             Musteriler ON Siparisler.MusteriId = Musteriler.MusteriId INNER JOIN
+             Urunler ON Siparisler.UrunId = Urunler.UrunId</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="SiparisId" DataSetColumn="SiparisId" />
+              <Mapping SourceColumn="SiparisNumarasi" DataSetColumn="SiparisNumarasi" />
+              <Mapping SourceColumn="Adet" DataSetColumn="Adet" />
+              <Mapping SourceColumn="KargoAdi" DataSetColumn="KargoAdi" />
+              <Mapping SourceColumn="MusteriAdi" DataSetColumn="MusteriAdi" />
+              <Mapping SourceColumn="UrunAdi" DataSetColumn="UrunAdi" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SiparislerDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="SiparislerDataSet" msprop:Generator_UserDSName="SiparislerDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Siparisler" msprop:Generator_TableClassName="SiparislerDataTable" msprop:Generator_TableVarName="tableSiparisler" msprop:Generator_TablePropName="Siparisler" msprop:Generator_RowDeletingName="SiparislerRowDeleting" msprop:Generator_RowChangingName="SiparislerRowChanging" msprop:Generator_RowEvHandlerName="SiparislerRowChangeEventHandler" msprop:Generator_RowDeletedName="SiparislerRowDeleted" msprop:Generator_UserTableName="Siparisler" msprop:Generator_RowChangedName="SiparislerRowChanged" msprop:Generator_RowEvArgName="SiparislerRowChangeEvent" msprop:Generator_RowClassName="SiparislerRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SiparisId" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnSiparisId" msprop:Generator_ColumnPropNameInRow="SiparisId" msprop:Generator_ColumnPropNameInTable="SiparisIdColumn" msprop:Generator_UserColumnName="SiparisId" type="xs:int" />
+              <xs:element name="SiparisNumarasi" msprop:Generator_ColumnVarNameInTable="columnSiparisNumarasi" msprop:Generator_ColumnPropNameInRow="SiparisNumarasi" msprop:Generator_ColumnPropNameInTable="SiparisNumarasiColumn" msprop:Generator_UserColumnName="SiparisNumarasi" type="xs:long" />
+              <xs:element name="Adet" msprop:Generator_ColumnVarNameInTable="columnAdet" msprop:Generator_ColumnPropNameInRow="Adet" msprop:Generator_ColumnPropNameInTable="AdetColumn" msprop:Generator_UserColumnName="Adet" type="xs:int" />
+              <xs:element name="KargoAdi" msprop:Generator_ColumnVarNameInTable="columnKargoAdi" msprop:Generator_ColumnPropNameInRow="KargoAdi" msprop:Generator_ColumnPropNameInTable="KargoAdiColumn" msprop:Generator_UserColumnName="KargoAdi">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MusteriAdi" msprop:Generator_ColumnVarNameInTable="columnMusteriAdi" msprop:Generator_ColumnPropNameInRow="MusteriAdi" msprop:Generator_ColumnPropNameInTable="MusteriAdiColumn" msprop:Generator_UserColumnName="MusteriAdi">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UrunAdi" msprop:Generator_ColumnVarNameInTable="columnUrunAdi" msprop:Generator_ColumnPropNameInRow="UrunAdi" msprop:Generator_ColumnPropNameInTable="UrunAdiColumn" msprop:Generator_UserColumnName="UrunAdi">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Siparisler" />
+      <xs:field xpath="mstns:SiparisId" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
