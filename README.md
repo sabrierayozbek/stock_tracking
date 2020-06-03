@@ -1,5 +1,5 @@
-[![GitHub issues](https://img.shields.io/github/issues/sabrierayozbek/sentiment_and_personality_analysis.svg)](https://github.com/sentiment_and_personality_analysis/issues)
-[![GitHub forks](https://img.shields.io/github/forks/sabrierayozbek/sentiment_and_personality_analysis.svg)](https://github.com/sentiment_and_personality_analysis/network)
+[![GitHub issues](https://img.shields.io/github/issues/sabrierayozbek/stock_tracking.svg)](https://github.com/sentiment_and_personality_analysis/issues)
+[![GitHub forks](https://img.shields.io/github/forks/sabrierayozbek/stock_tracking.svg)](https://github.com/sentiment_and_personality_analysis/network)
 
 
 # Stock Tracking Program With All DB Actions
